@@ -1,4 +1,4 @@
-pandas==2.1.0
-numpy==1.26.0
-plotly==5.17.0
-pydeck==0.8.0
+pandas
+numpy
+plotly
+pydeck
