@@ -1,12 +1,9 @@
 # EUDR Coffee Traceability & Compliance Platform  
-### Strategic Risk Management for Romina PLC Export Logistics
-
----
 
 ## Project Overview
 A full-stack data intelligence system designed to automate EU Deforestation Regulation (EUDR) compliance for 2,000+ coffee plots.  
 
-This platform transforms Romina PLC’s operations from manual, error-prone spreadsheets into a professional digital ledger, ensuring 100% audit readiness for European export markets.
+This platform transforms operations from manual, error-prone spreadsheets into a professional digital ledger, ensuring 100% audit readiness for European export markets.
 
 ---
 
