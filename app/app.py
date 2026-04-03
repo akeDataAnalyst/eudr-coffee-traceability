@@ -28,7 +28,7 @@ st.markdown("""
 # 2. DATA LOAD WITH TYPE FORCING 
 @st.cache_data
 def load_data():
-    file_path = '.../notebooks/data/processed/romina_compliance_final.csv'
+    file_path = 'romina_compliance_final.csv'
     if not os.path.exists(file_path): return None
 
     data = pd.read_csv(file_path)
