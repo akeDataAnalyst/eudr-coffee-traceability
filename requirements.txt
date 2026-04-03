@@ -1,9 +1,4 @@
-pandas==2.1.0
-numpy==1.26.0
-python-dotenv==1.0.0
-sqlalchemy==2.0.21
-pymysql==1.1.0
-cryptography==41.0.4
-streamlit==1.27.0
-plotly==5.17.0
-pydeck==0.8.0
+streamlit
+pandas
+pydeck
+plotly
